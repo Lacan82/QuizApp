@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         CheckBox boxOneAnswer = findViewById(R.id.checkBox_question3_answer1);
         CheckBox boxTwoAnswer = findViewById(R.id.checkBox_question3_answer2);
         CheckBox boxThreeAnswer = findViewById(R.id.checkBox_question3_answer3);
-        if (boxOneAnswer.isChecked() && !boxTwoAnswer.isChecked() && boxOneAnswer.isChecked()) {
+        if (boxOneAnswer.isChecked() && !boxTwoAnswer.isChecked() && boxThreeAnswer.isChecked()) {
             score += 1;
         }
     }
