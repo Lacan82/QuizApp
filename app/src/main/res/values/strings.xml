@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LateQuizApp</string>
+    <string name="header_question1">Question 1</string>
+    <string name="header_question2">Question 2</string>
+    <string name="header_question3">Question 3</string>
+    <string name="header_question4">Question 4</string>
+    <string name="quiz_question4">What was Luke Skywalker’s original surname? </string>
+    <string name="quiz_question3">Which of these characters did Darth Vader cut off their hand?</string>
+    <string name="quiz_question2">Which is the only film of the original six in which desert planet Tatooine doesn’t appear?</string>
+    <string name="quiz_question1">How many people can sit on the cockpit of the Millennium Falcon?</string>
+    <string name="question1_radio1">Two</string>
+    <string name="question1_radio2">Four</string>
+    <string name="question1_radio3">Six</string>
+    <string name="question2_radio1">Empire Strikes Back</string>
+    <string name="question2_radio2">New Hope</string>
+    <string name="question2_radio3">Return of the Jedi</string>
+    <string name="question3_check1">Mace Windu</string>
+    <string name="question3_check2">Emperor Palpatine</string>
+    <string name="question3_check3">Luke Skywalker</string>
+    <string name="question4_name">Name</string>
+    <string name="quiz_submit">Submit</string>
+</resources>
